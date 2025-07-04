@@ -23,16 +23,6 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 
 ---
 
-## 📂 Folder Structure
-
-tic-tac-toe/
-│
-├── index.html # Main HTML file
-├── style.css # Styling file
-└── script.js # JavaScript logic
-
----
-
 ## 🤝 Contribution
 
 This is a beginner-level project. Suggestions, improvements, or pull requests are always welcome!
