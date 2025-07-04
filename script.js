@@ -115,7 +115,7 @@ if(draw==true){
 
 function triggerDropEffect() {
   const container = document.getElementById("drop-container");
-  container.innerHTML = ""; // Clear any previous emojis
+  container.innerHTML = ""; 
 
   const emojis = ["🎉", "✨", "🎊", "🥳", "🔥"];
   for (let i = 0; i < 30; i++) {
@@ -127,7 +127,7 @@ function triggerDropEffect() {
     container.appendChild(drop);
   }
 
-  // Optional: Remove all drops after animation ends
+  
   setTimeout(() => {
     container.innerHTML = "";
   }, 3000);
